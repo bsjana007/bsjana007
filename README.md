@@ -6,7 +6,7 @@ I’m a passionate student currently learning Web Development, MERN Stack, and A
 
 ## 🌐 Socials:
 
-[![GitHub](https://img.shields.io/badge/GitHub-%230077B5?logo=github&logoColor=black)](https://github.com/bsjana007)   
+[![GitHub](https://img.shields.io/badge/GitHub-Code_Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/bsjana007)   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhabanisankarjana)
 
 # 💻 Tech Stack:
