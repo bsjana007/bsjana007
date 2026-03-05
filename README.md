@@ -132,12 +132,6 @@ I have worked on projects like:
 
 ---
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=bsjana007&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 <p align="center">
   <i>Curious mind. Smart idea. Terrible implementation.</i>
 </p>
