@@ -102,30 +102,6 @@ I have worked on projects like:
 
 ---
 
-## 📊 GitHub Stats:
-
-<div align="center"> 
-<table>
-<tr>
-<td width="70%">
-
-![](https://github-readme-stats.vercel.app/api?username=bsjana007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bsjana007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bsjana007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</td>
-
-<td width="30%" align="center">
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
